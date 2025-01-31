@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GuessTheNumber</string>
+    <string name="play_again">Juega de Nuevo!</string>
+    <string name="guess">Adivinar</string>
+    <string name="surrender">Rendirse</string>
+    <string name="hint">Intenta Adivinar!</string>
+    <string name="range">Adivina el numero entre 0-100!</string>
 </resources>
